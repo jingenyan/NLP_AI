@@ -1,0 +1,7472 @@
+[
+  {
+    "l1_label": "标本部位",
+    "urid": "6abcc68b8ecfe6efa8d691cdfcb7a881__index__20170320",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          6
+        ],
+        "输卵管及网膜"
+      ]
+    ],
+    "miaoshu": "输卵管及网膜未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ccd46bea8c775212ba2bb09cf3181756__index__20170307",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢畸胎瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ccd46bea8c775212ba2bb09cf3181756__index__20170307",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "腹壁"
+      ]
+    ],
+    "miaoshu": "腹壁低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ccd46bea8c775212ba2bb09cf3181756__index__20170307",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜低分化腺癌浸润,细胞有退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ccd46bea8c775212ba2bb09cf3181756__index__20170307",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "左卵巢可见极个别异型腺体,细胞有退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ccd46bea8c775212ba2bb09cf3181756__index__20170307",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "左卵管"
+      ]
+    ],
+    "miaoshu": "左卵管未见明显特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ccd46bea8c775212ba2bb09cf3181756__index__20170307",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ],
+      [
+        [
+          15,
+          17
+        ],
+        "壁间"
+      ]
+    ],
+    "miaoshu": "(宫体)1.增生期宫内膜,2.壁间平滑肌瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d00401b46791e6de68ccaee5f76fd051__index__30",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "双侧卵巢浆液性乳头状囊腺瘤II-III级"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          6
+        ],
+        "左、右侧卵巢"
+      ]
+    ],
+    "miaoshu": "左、右侧卵巢高级别浆液性乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          6
+        ],
+        "左、右侧卵巢"
+      ]
+    ],
+    "miaoshu": "左、右侧卵巢高级别浆液性乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          11
+        ],
+        "左、右宫旁及阴道壁切缘"
+      ]
+    ],
+    "miaoshu": "左、右宫旁及阴道壁切缘未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          11
+        ],
+        "左、右宫旁及阴道壁切缘"
+      ]
+    ],
+    "miaoshu": "左、右宫旁及阴道壁切缘未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜见癌结节"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜见癌结节"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "阑尾壁"
+      ]
+    ],
+    "miaoshu": "阑尾壁见少许癌组织浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "阑尾壁"
+      ]
+    ],
+    "miaoshu": "阑尾壁见少许癌组织浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "子宫"
+      ]
+    ],
+    "miaoshu": "子宫平滑肌瘤,大者为0.6×0.5×0.5cm,小者为0.2×0.2×0.2cm"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "子宫"
+      ]
+    ],
+    "miaoshu": "子宫平滑肌瘤,大者为0.6×0.5×0.5cm,小者为0.2×0.2×0.2cm"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "老年萎缩行子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "老年萎缩行子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "双侧孵卵管"
+      ]
+    ],
+    "miaoshu": "双侧孵卵管未见著变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "双侧孵卵管"
+      ]
+    ],
+    "miaoshu": "双侧孵卵管未见著变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "478f187c0f370d00a6765d0f9b269b81__index__20170829",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)退变的异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "478f187c0f370d00a6765d0f9b269b81__index__20170829",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "双卵管、阑尾"
+      ]
+    ],
+    "miaoshu": "(双卵管、阑尾)未见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "478f187c0f370d00a6765d0f9b269b81__index__20170829",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "双主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(双主韧带切缘)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "卵巢?腺体"
+      ]
+    ],
+    "miaoshu": "卵巢?腺体高级别上皮内瘤变,局部倾向高分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "卵巢?腺体"
+      ]
+    ],
+    "miaoshu": "卵巢?腺体高级别上皮内瘤变,局部倾向高分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)滤泡囊肿形成"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)滤泡囊肿形成"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(左卵管)外膜"
+      ]
+    ],
+    "miaoshu": "(左卵管)外膜处癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(左卵管)外膜"
+      ]
+    ],
+    "miaoshu": "(左卵管)外膜处癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)1.平滑肌瘤。 2.老年性子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)1.平滑肌瘤。 2.老年性子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "左右主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(左右主韧带切缘)未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "左右主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(左右主韧带切缘)未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "盆腔转移瘤"
+      ]
+    ],
+    "miaoshu": "(另送盆腔转移瘤)变性的结缔组织,未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d66f25f770241df166401497a5288d6__index__20170904",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "盆腔转移瘤"
+      ]
+    ],
+    "miaoshu": "(另送盆腔转移瘤)变性的结缔组织,未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6c72df11e90a90d56aca1e3b4b5fbd8a__index__20170220",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)见退变的癌组织,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6c72df11e90a90d56aca1e3b4b5fbd8a__index__20170220",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)见退变的癌组织,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6c72df11e90a90d56aca1e3b4b5fbd8a__index__20170220",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)见退变的癌组织,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6c72df11e90a90d56aca1e3b4b5fbd8a__index__20170220",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)见退变的癌组织,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6c72df11e90a90d56aca1e3b4b5fbd8a__index__20170220",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵管"
+      ]
+    ],
+    "miaoshu": "(左卵管)见退变的癌组织,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6c72df11e90a90d56aca1e3b4b5fbd8a__index__20170220",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵管"
+      ]
+    ],
+    "miaoshu": "(左卵管)见退变的癌组织,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "38f313b95f59d250e57444da057e36d7__index__20171120",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "左卵巢、左输卵管"
+      ]
+    ],
+    "miaoshu": "(左卵巢、左输卵管)未见明确癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "38f313b95f59d250e57444da057e36d7__index__20171120",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          11
+        ],
+        "右卵巢动静脉残端切缘"
+      ]
+    ],
+    "miaoshu": "(右卵巢动静脉残端切缘)组织见变性坏死及炎性细胞浸润,未见明确癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "38f313b95f59d250e57444da057e36d7__index__20171120",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          6
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(另送大网膜)大网膜淋巴组织内癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1b200cc8ed590c87ad41a68664bf778d__index__20170427",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)1.腺癌浸润。2.老年性宫内膜。3.颈体交界未累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1b200cc8ed590c87ad41a68664bf778d__index__20170427",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)1.腺癌浸润。2.老年性宫内膜。3.颈体交界未累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1b200cc8ed590c87ad41a68664bf778d__index__20170427",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双附件"
+      ]
+    ],
+    "miaoshu": "(双附件)1.腺癌,首先考虑卵巢原发。 2.双卵管受累"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1b200cc8ed590c87ad41a68664bf778d__index__20170427",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双附件"
+      ]
+    ],
+    "miaoshu": "(双附件)1.腺癌,首先考虑卵巢原发。 2.双卵管受累"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "252371a500f0f54383ee03ac573324ef__index__20171204",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "卵巢癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水离心沉渣石蜡包埋)可见异型增生上皮细胞,结合免疫组化结果提示为腺癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水离心沉渣石蜡包埋)可见异型增生上皮细胞,结合免疫组化结果提示为腺癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水离心沉渣石蜡包埋)可见异型增生上皮细胞,结合免疫组化结果提示为腺癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "98120ebc817553e3dd8a16188cbc8415__index__20170417",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水沉渣)弥漫成片异型细胞,免疫组化示:符合高级别浆液性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "子宫内膜"
+      ]
+    ],
+    "miaoshu": "子宫内膜呈息肉样增生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "子宫内膜"
+      ]
+    ],
+    "miaoshu": "子宫内膜呈息肉样增生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(双侧)输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧)输卵管未见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "62d5dd1691d543e299f9c74715ccb7af__index__20171023",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(双侧)输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧)输卵管未见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          5,
+          9
+        ],
+        "子宫壁间"
+      ]
+    ],
+    "miaoshu": "(全子宫)子宫壁间平滑肌瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "慢性宫颈炎,伴潴留囊肿形成"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          11
+        ],
+        "(右附件)卵巢子宫内膜"
+      ]
+    ],
+    "miaoshu": "(右附件)卵巢子宫内膜囊肿"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "输卵管"
+      ]
+    ],
+    "miaoshu": "输卵管慢性炎症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "(左附件)输卵管"
+      ]
+    ],
+    "miaoshu": "(左附件)输卵管乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "乙状结肠外"
+      ]
+    ],
+    "miaoshu": "(乙状结肠外)可见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)腺癌,形态倾向浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "46eea8f3034ea7d9b37602b47fd4cb69__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)未见明确癌成分"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3cf02d4bee43908d922ed2f1e3206fcb__index__20171211",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "小肠、结肠切缘"
+      ]
+    ],
+    "miaoshu": "(小肠、结肠切缘)干净"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "e6b2d7831c12774e72ba4dd0da62e1ef__index__20171120",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)腺癌,倾向浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "49f499c2efb491ea32eff2288c8d58a6__index__20171010",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "增殖期子宫内膜,部分呈息肉样增生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "49f499c2efb491ea32eff2288c8d58a6__index__20171010",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "增殖期子宫内膜,部分呈息肉样增生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "49f499c2efb491ea32eff2288c8d58a6__index__20171010",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "双侧卵巢浆液性囊腺癌并大片状坏死"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "49f499c2efb491ea32eff2288c8d58a6__index__20171010",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "双侧卵巢浆液性囊腺癌并大片状坏死"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "49f499c2efb491ea32eff2288c8d58a6__index__20171010",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧附件"
+      ]
+    ],
+    "miaoshu": "(双侧附件)腺癌,结合免疫组化有子宫内膜样及浆液性表达"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "49f499c2efb491ea32eff2288c8d58a6__index__20171010",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧附件"
+      ]
+    ],
+    "miaoshu": "(双侧附件)腺癌,结合免疫组化有子宫内膜样及浆液性表达"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ef475a7aa57c5536dbaeb13d14e9f861__index__20170516",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "卵巢交界性浆液性乳头状囊腺瘤癌变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ef475a7aa57c5536dbaeb13d14e9f861__index__20170516",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "子宫内膜"
+      ]
+    ],
+    "miaoshu": "子宫内膜增生期改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ef475a7aa57c5536dbaeb13d14e9f861__index__20170516",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "膀胱"
+      ]
+    ],
+    "miaoshu": "膀胱考虑为卵巢癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ef475a7aa57c5536dbaeb13d14e9f861__index__20170516",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "阔韧带及大网膜"
+      ]
+    ],
+    "miaoshu": "阔韧带及大网膜可见异型上皮及钙化砂粒小体"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ef475a7aa57c5536dbaeb13d14e9f861__index__20170516",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "(双卵巢)交界性浆液性囊腺瘤,局部癌变(低级别)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ef475a7aa57c5536dbaeb13d14e9f861__index__20170516",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "子宫、阑尾"
+      ]
+    ],
+    "miaoshu": "子宫、阑尾未见恶性成分"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6bc89b82e96e418be036507991a78373__index__20170208",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "查见腺癌细胞,结合免疫组化,符合女性生殖系统来源"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72d9751e8cc2ea2fdea53a2999f9ee8c__index__20170313",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "右卵巢浆液性乳头状囊腺癌(未见单)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72d9751e8cc2ea2fdea53a2999f9ee8c__index__20170313",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(肠壁转移瘤)见大片出血及个别腺体,倾向种植"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72d9751e8cc2ea2fdea53a2999f9ee8c__index__20170313",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "输尿管转移瘤"
+      ]
+    ],
+    "miaoshu": "(输尿管转移瘤)未见明确肿瘤累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72d9751e8cc2ea2fdea53a2999f9ee8c__index__20170313",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)未见明确肿瘤累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9a828d53de168c2dba1566762638cde0__index__20170323",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          10
+        ],
+        "(一侧)输卵管、卵巢"
+      ]
+    ],
+    "miaoshu": "(一侧)输卵管、卵巢高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9a828d53de168c2dba1566762638cde0__index__20170323",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          10
+        ],
+        "(一侧)输卵管、卵巢"
+      ]
+    ],
+    "miaoshu": "(一侧)输卵管、卵巢高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9a828d53de168c2dba1566762638cde0__index__20170323",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "增值状态子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9a828d53de168c2dba1566762638cde0__index__20170323",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "增值状态子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9a828d53de168c2dba1566762638cde0__index__20170323",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "一侧输卵管、卵巢"
+      ]
+    ],
+    "miaoshu": "一侧输卵管、卵巢未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9a828d53de168c2dba1566762638cde0__index__20170323",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "一侧输卵管、卵巢"
+      ]
+    ],
+    "miaoshu": "一侧输卵管、卵巢未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "97cb02b237c4494b76119ed45aa17628__index__20170911",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "右卵巢浆液性乳头状囊腺癌,分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "腹壁结节"
+      ]
+    ],
+    "miaoshu": "(腹壁结节)腺癌,结合免疫组化考虑卵巢来源可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "腹壁结节"
+      ]
+    ],
+    "miaoshu": "(腹壁结节)腺癌,结合免疫组化考虑卵巢来源可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          10
+        ],
+        "双侧卵巢、左输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢、左输卵管)腺癌,细胞轻度退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          10
+        ],
+        "双侧卵巢、左输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢、左输卵管)腺癌,细胞轻度退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          13
+        ],
+        "右输卵管、双侧主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(右输卵管、双侧主韧带切缘)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          13
+        ],
+        "右输卵管、双侧主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(右输卵管、双侧主韧带切缘)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          26
+        ],
+        "大网膜、阑尾、肠壁结节、腹壁肿物、左侧结肠旁沟腹膜"
+      ]
+    ],
+    "miaoshu": "(大网膜、阑尾、肠壁结节、腹壁肿物、左侧结肠旁沟腹膜)见腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          26
+        ],
+        "大网膜、阑尾、肠壁结节、腹壁肿物、左侧结肠旁沟腹膜"
+      ]
+    ],
+    "miaoshu": "(大网膜、阑尾、肠壁结节、腹壁肿物、左侧结肠旁沟腹膜)见腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "右侧结肠旁腹膜"
+      ]
+    ],
+    "miaoshu": "(右侧结肠旁腹膜)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "右侧结肠旁腹膜"
+      ]
+    ],
+    "miaoshu": "(右侧结肠旁腹膜)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "子宫内膜"
+      ]
+    ],
+    "miaoshu": "子宫内膜呈增生期改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "子宫内膜"
+      ]
+    ],
+    "miaoshu": "子宫内膜呈增生期改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)慢性炎症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3fa6fd2054c2bf9379fb427cd84cfb93__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)慢性炎症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "616d50ab2d58f6138e72f46ead359deb__index__20170202",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "双侧卵巢浆液性腺癌(中分化)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "616d50ab2d58f6138e72f46ead359deb__index__20170202",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左输卵管"
+      ]
+    ],
+    "miaoshu": "左输卵管、见癌组织侵犯"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "616d50ab2d58f6138e72f46ead359deb__index__20170202",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "膀胱"
+      ]
+    ],
+    "miaoshu": "膀胱见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "616d50ab2d58f6138e72f46ead359deb__index__20170202",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "阑尾未见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "616d50ab2d58f6138e72f46ead359deb__index__20170202",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "盆壁"
+      ]
+    ],
+    "miaoshu": "盆壁见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "616d50ab2d58f6138e72f46ead359deb__index__20170202",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "网膜"
+      ]
+    ],
+    "miaoshu": "网膜见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "60ba12657f2d3e6b77877f27804b2a3d__index__20170317",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "?附件"
+      ]
+    ],
+    "miaoshu": "(?附件)高级别浆液性癌,未累及子宫"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "60ba12657f2d3e6b77877f27804b2a3d__index__20170317",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "?附件"
+      ]
+    ],
+    "miaoshu": "(?附件)高级别浆液性癌,未累及子宫"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b838ea8c5569b01640747c73943bcede__index__20170927",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "子宫壁间浆膜下"
+      ]
+    ],
+    "miaoshu": "子宫壁间浆膜下、多发性平滑肌瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b838ea8c5569b01640747c73943bcede__index__20170927",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "子宫壁间浆膜下"
+      ]
+    ],
+    "miaoshu": "子宫壁间浆膜下、多发性平滑肌瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b838ea8c5569b01640747c73943bcede__index__20170927",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "子宫颈"
+      ]
+    ],
+    "miaoshu": "子宫颈慢性炎,纳氏囊肿,上皮内瘤变I-II级"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b838ea8c5569b01640747c73943bcede__index__20170927",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "子宫颈"
+      ]
+    ],
+    "miaoshu": "子宫颈慢性炎,纳氏囊肿,上皮内瘤变I-II级"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b838ea8c5569b01640747c73943bcede__index__20170927",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "右侧卵巢"
+      ]
+    ],
+    "miaoshu": "右侧卵巢浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b838ea8c5569b01640747c73943bcede__index__20170927",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "右侧卵巢"
+      ]
+    ],
+    "miaoshu": "右侧卵巢浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)考虑:低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)考虑:低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)考虑:低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "左卵巢右卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢右卵巢)组织内见少量退变的癌残留,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "左卵巢右卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢右卵巢)组织内见少量退变的癌残留,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "左卵巢右卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢右卵巢)组织内见少量退变的癌残留,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵管"
+      ]
+    ],
+    "miaoshu": "(双卵管)未见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵管"
+      ]
+    ],
+    "miaoshu": "(双卵管)未见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵管"
+      ]
+    ],
+    "miaoshu": "(双卵管)未见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜阑尾"
+      ]
+    ],
+    "miaoshu": "(大网膜阑尾)未见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜阑尾"
+      ]
+    ],
+    "miaoshu": "(大网膜阑尾)未见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5630db6a186c8aa9530e180ca25ed78e__index__20170926",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜阑尾"
+      ]
+    ],
+    "miaoshu": "(大网膜阑尾)未见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "盆腔考虑腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)见异型细胞巢,细胞退变明显,考虑腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "左输卵管、左卵巢"
+      ]
+    ],
+    "miaoshu": "(左输卵管、左卵巢)未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "33d52330dc9d519d6537fd5f46bcc60f__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)癌,结合形态及免疫组化符合透明细胞癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "33d52330dc9d519d6537fd5f46bcc60f__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)1.宫颈息肉。2.粘膜慢性炎伴奈氏囊肿形成"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "33d52330dc9d519d6537fd5f46bcc60f__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          15
+        ],
+        "阴道壁切缘、左、右主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(阴道壁切缘、左、右主韧带切缘)干净"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "33d52330dc9d519d6537fd5f46bcc60f__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "左附件区"
+      ]
+    ],
+    "miaoshu": "(左附件区)梭形细胞瘤样增生(细胞温和,核分裂罕见)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          6,
+          9
+        ],
+        "结肠壁"
+      ]
+    ],
+    "miaoshu": "低分化腺癌,结肠壁内低分化腺癌浸润累及外膜,免疫组化提示来源于间皮"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "形态符合低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "结肠"
+      ]
+    ],
+    "miaoshu": "结肠低分化腺癌,侵出外膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)免疫组化标记符合:腺癌,较倾向为浆液性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)可见腺癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "宫内膜"
+      ]
+    ],
+    "miaoshu": "(宫内膜)萎缩性宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "(阑尾)粘膜慢性重度炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)癌浸润,细胞退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)癌浸润,细胞退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "(阑尾)癌浸润,细胞退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(另送膀胱转移瘤)癌浸润,细胞退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "73a793c3889a3397f3921a8936e33804__index__20171205",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          6
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(另送大网膜)癌浸润,细胞退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f425a8bd891f0811b1cb980238faa9dc__index__20170721",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "倾向:转移癌。诊断:见成团的异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0209ac4c96ed6251ea0f44d2df9e3921__index__20170315",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)浆液性腺癌,中分化"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0209ac4c96ed6251ea0f44d2df9e3921__index__20170315",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          11
+        ],
+        "双侧输卵管、宫体、宫颈"
+      ]
+    ],
+    "miaoshu": "双侧输卵管、宫体、宫颈未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0209ac4c96ed6251ea0f44d2df9e3921__index__20170315",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜内扪及6个癌结节"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "e33c63ec62bf83ded220d7b8c802013c__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "卵巢浆液性癌,化疗后改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "e33c63ec62bf83ded220d7b8c802013c__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双输卵管"
+      ]
+    ],
+    "miaoshu": "双输卵管(-)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d0459f79252780aa723b088405a15b0b__index__20170703",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右侧卵巢"
+      ]
+    ],
+    "miaoshu": "(右侧卵巢)恶性肿瘤,符合畸胎瘤恶变,见大量腺癌成分"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d0459f79252780aa723b088405a15b0b__index__20170703",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)符合低分化腺癌,免疫组化提示请临床务必详查消化系统除外转移性"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d0459f79252780aa723b088405a15b0b__index__20170703",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)囊性成熟性畸胎瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d0459f79252780aa723b088405a15b0b__index__20170703",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ],
+      [
+        [
+          11,
+          13
+        ],
+        "壁间"
+      ]
+    ],
+    "miaoshu": "(宫体)增生期宫内膜,壁间平滑肌瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d0459f79252780aa723b088405a15b0b__index__20170703",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(胰头后肿物)形态及免疫组化符合:癌浸润/转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0258003982984125823ecd665d7ffa73__index__20170206",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "双侧卵巢浆液性乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0258003982984125823ecd665d7ffa73__index__20170206",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)浆液性腺癌,部分分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0588d89201daf9aea35b04f09d1c85d1__index__20170628",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "卵巢肿物"
+      ]
+    ],
+    "miaoshu": "(卵巢肿物)破碎组织内见少量退变的异型腺体。结合免疫组化:符合腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0588d89201daf9aea35b04f09d1c85d1__index__20170628",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "(双卵巢)组织内见少量癌,细胞退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0588d89201daf9aea35b04f09d1c85d1__index__20170628",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)慢性炎,伴奈氏囊肿及息肉形成"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0588d89201daf9aea35b04f09d1c85d1__index__20170628",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          7
+        ],
+        "盆腔结节"
+      ]
+    ],
+    "miaoshu": "(另送盆腔结节)组织内炎细胞浸润,及少量退变的核异质细胞及砂粒体样物"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右附件"
+      ]
+    ],
+    "miaoshu": "(右附件)癌,结合免疫组化考虑子宫内膜样腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6b80342df7921071a5b93f28ec7b0de9__index__20170429",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "异型细胞,符合:腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6b80342df7921071a5b93f28ec7b0de9__index__20170429",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "异型细胞,符合:腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6b80342df7921071a5b93f28ec7b0de9__index__20170429",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "异型细胞,符合:腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8cc7879d32d2306543ac2a9f8da2fdd9__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)癌,考虑高级别浆液性癌,部分分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8cc7879d32d2306543ac2a9f8da2fdd9__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          6
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(另送右卵巢)癌,考虑高级别浆液性癌,部分分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8cc7879d32d2306543ac2a9f8da2fdd9__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵管"
+      ]
+    ],
+    "miaoshu": "(左卵管)异型细胞累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8cc7879d32d2306543ac2a9f8da2fdd9__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          6
+        ],
+        "右卵管"
+      ]
+    ],
+    "miaoshu": "(另送右卵管)未见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8cc7879d32d2306543ac2a9f8da2fdd9__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          12
+        ],
+        "盆腹腔转移瘤软组织"
+      ]
+    ],
+    "miaoshu": "(另送盆腹腔转移瘤软组织)未见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8cc7879d32d2306543ac2a9f8da2fdd9__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          6
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(另送大网膜)未见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "7c1cc94b75e559b16b46bd168b918e71__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右侧卵巢"
+      ]
+    ],
+    "miaoshu": "(右侧卵巢)粘液性囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "7c1cc94b75e559b16b46bd168b918e71__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "右侧卵巢及网膜"
+      ]
+    ],
+    "miaoshu": "(右侧卵巢及网膜)低级别粘液性肿瘤(以往称:高分化粘液腺癌)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f8031d5e257a4ecb25417ca0e3be0467__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "双卵巢浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f8031d5e257a4ecb25417ca0e3be0467__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双输卵管"
+      ]
+    ],
+    "miaoshu": "双输卵管慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f8031d5e257a4ecb25417ca0e3be0467__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "腹水未见癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f8031d5e257a4ecb25417ca0e3be0467__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)乳头状腺癌,中分化"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "28d7f8366c2bff1da3f8ccf8c7dca8ec__index__20170502",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "卵巢?"
+      ]
+    ],
+    "miaoshu": "(卵巢?)见少许不典型增生的上皮样细胞,细胞变性明显,考虑腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          6
+        ],
+        "(双侧)卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧)卵巢浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "双侧阔韧带断端"
+      ]
+    ],
+    "miaoshu": "(双侧阔韧带断端)可见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "右侧输卵管"
+      ]
+    ],
+    "miaoshu": "右侧输卵管可见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "左侧输卵管"
+      ]
+    ],
+    "miaoshu": "左侧输卵管未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          11
+        ],
+        "双侧宫旁组织及阴道残端"
+      ]
+    ],
+    "miaoshu": "双侧宫旁组织及阴道残端均未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "老年宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "肠管表面"
+      ]
+    ],
+    "miaoshu": "肠管表面可见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "浆膜面可见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "eb8423131f76bc1522519fbda79fa30a__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜可见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "(盆腔)浆液性乳头状囊腺癌(I-II级)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "卵巢表面"
+      ]
+    ],
+    "miaoshu": "卵巢表面清除物为浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "双侧卵巢浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "双侧输卵管伞端"
+      ]
+    ],
+    "miaoshu": "双侧输卵管伞端可见有癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜内未见癌转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "慢性子宫内膜炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "07cb4517bad69cc26d9e60e2f8f95a66__index__4",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "宫颈鳞状上皮慢性炎伴糜烂,潴留囊肿及鳞状上皮化生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9db3410598cba7eacfd87d54a5c55432__index__20170406",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水)涂片:发现腺癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9db3410598cba7eacfd87d54a5c55432__index__20170406",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)低分化腺癌,细胞轻度退变,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9db3410598cba7eacfd87d54a5c55432__index__20170406",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)低分化腺癌,细胞轻度退变,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9db3410598cba7eacfd87d54a5c55432__index__20170406",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵管"
+      ]
+    ],
+    "miaoshu": "(左卵管)见腺癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ba2571ff723f4cc11ed87cc78e3ca462__index__20180129",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左附件"
+      ]
+    ],
+    "miaoshu": "[左附件]符合卵巢浆液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ba2571ff723f4cc11ed87cc78e3ca462__index__20180129",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          6
+        ],
+        "阑尾及淋巴结"
+      ]
+    ],
+    "miaoshu": "阑尾及淋巴结未发现肿瘤细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3dbbd2b087d4142f25ffe9245267a108__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "腹水沉渣涂片见有片团状异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3dbbd2b087d4142f25ffe9245267a108__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水)发现腺癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3319ad83d66f02625993ea6ea00e2d32__index__20170917",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "右卵巢肿物"
+      ]
+    ],
+    "miaoshu": "(右卵巢肿物冰冻)符合:腺癌,免疫组化标记提示:透明细胞癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "左侧卵巢及输卵管"
+      ]
+    ],
+    "miaoshu": "左侧卵巢及输卵管浆液性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "左侧卵巢及输卵管"
+      ]
+    ],
+    "miaoshu": "左侧卵巢及输卵管浆液性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "右侧卵巢及输卵管"
+      ]
+    ],
+    "miaoshu": "右侧卵巢及输卵管见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "右侧卵巢及输卵管"
+      ]
+    ],
+    "miaoshu": "右侧卵巢及输卵管见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左右宫旁"
+      ]
+    ],
+    "miaoshu": "左右宫旁见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左右宫旁"
+      ]
+    ],
+    "miaoshu": "左右宫旁见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "阑尾浆膜层"
+      ]
+    ],
+    "miaoshu": "阑尾浆膜层见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "阑尾浆膜层"
+      ]
+    ],
+    "miaoshu": "阑尾浆膜层见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          12
+        ],
+        "子宫、宫颈、盆腔淋巴结"
+      ]
+    ],
+    "miaoshu": "余子宫、宫颈、盆腔淋巴结未见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          12
+        ],
+        "子宫、宫颈、盆腔淋巴结"
+      ]
+    ],
+    "miaoshu": "余子宫、宫颈、盆腔淋巴结未见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左侧卵巢"
+      ]
+    ],
+    "miaoshu": "左侧卵巢高级别浆液性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "90a128a8d2e1e30b6c5083dba6196c5a__index__20170712",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左侧卵巢"
+      ]
+    ],
+    "miaoshu": "左侧卵巢高级别浆液性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(子宫壁结节)腺癌侵润或者转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(子宫壁结节)腺癌浸润或转移,结合原单位免疫组化标记考虑浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "17160b597d9906dd830cd082df4cba2f__index__20180121",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)浆液性囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "17160b597d9906dd830cd082df4cba2f__index__20180121",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          9
+        ],
+        "双侧输卵管、大网膜"
+      ]
+    ],
+    "miaoshu": "双侧输卵管、大网膜内见癌组织浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "17160b597d9906dd830cd082df4cba2f__index__20180121",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "较多的淋巴细胞,未发现癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "822cf2263a527a942518c538f8d3f7c0__index__20171019",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "腹壁结节"
+      ]
+    ],
+    "miaoshu": "(腹壁结节)腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ab5040afcf2434c2134282084177fd3e__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "双侧卵巢、大网膜"
+      ]
+    ],
+    "miaoshu": "双侧卵巢、大网膜高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ab5040afcf2434c2134282084177fd3e__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "右侧输卵管伞端脉管内见癌栓"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ab5040afcf2434c2134282084177fd3e__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "全子宫"
+      ],
+      [
+        [
+          21,
+          23
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(全子宫)单纯萎缩性子宫内膜,慢性宫颈炎,宫颈息肉"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ab5040afcf2434c2134282084177fd3e__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)高级别浆液性癌,累及输卵管浆膜面"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          2,
+          6
+        ],
+        "乙状结肠"
+      ]
+    ],
+    "miaoshu": "考虑乙状结肠高分化腺癌,浸及全层"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "累及神经"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "上下切缘"
+      ]
+    ],
+    "miaoshu": "上下切缘阴性"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "14a4b2ebf97b01ca60f363dafd21ac90__index__20170608",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "左附件、右卵巢"
+      ]
+    ],
+    "miaoshu": "(左附件、右卵巢)高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "胆囊"
+      ]
+    ],
+    "miaoshu": "(胆囊)慢性炎伴息肉"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "胆囊"
+      ]
+    ],
+    "miaoshu": "(胆囊)慢性炎伴息肉"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "胆囊"
+      ]
+    ],
+    "miaoshu": "(胆囊)慢性炎伴息肉"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "胆囊"
+      ]
+    ],
+    "miaoshu": "(胆囊)慢性炎伴息肉"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左附件"
+      ]
+    ],
+    "miaoshu": "(左附件)浆液性癌,侵及部分直肠部分乙状结肠肠壁"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左附件"
+      ]
+    ],
+    "miaoshu": "(左附件)浆液性癌,侵及部分直肠部分乙状结肠肠壁"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左附件"
+      ]
+    ],
+    "miaoshu": "(左附件)浆液性癌,侵及部分直肠部分乙状结肠肠壁"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左附件"
+      ]
+    ],
+    "miaoshu": "(左附件)浆液性癌,侵及部分直肠部分乙状结肠肠壁"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右附件区"
+      ]
+    ],
+    "miaoshu": "(右附件区)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右附件区"
+      ]
+    ],
+    "miaoshu": "(右附件区)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右附件区"
+      ]
+    ],
+    "miaoshu": "(右附件区)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右附件区"
+      ]
+    ],
+    "miaoshu": "(右附件区)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜肿物"
+      ]
+    ],
+    "miaoshu": "(大网膜肿物)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜肿物"
+      ]
+    ],
+    "miaoshu": "(大网膜肿物)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜肿物"
+      ]
+    ],
+    "miaoshu": "(大网膜肿物)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "aff5f2662cde57d8b4449766766d9553__index__20170321",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜肿物"
+      ]
+    ],
+    "miaoshu": "(大网膜肿物)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "685087035dd26fed9ee5ac3cec8c3b64__index__20171020",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "盆腔包块"
+      ]
+    ],
+    "miaoshu": "(盆腔包块)低分化癌,免疫标记支持浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "685087035dd26fed9ee5ac3cec8c3b64__index__20171020",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "侵犯肠壁粘膜下层(由外向内)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "685087035dd26fed9ee5ac3cec8c3b64__index__20171020",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "肠壁两切缘"
+      ]
+    ],
+    "miaoshu": "(肠壁两切缘)干净"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "685087035dd26fed9ee5ac3cec8c3b64__index__20171020",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "肠周淋巴结"
+      ]
+    ],
+    "miaoshu": "(肠周淋巴结)未见淋巴结"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "95fc18796cd9654efc412c7ba8c819f4__index__20171210",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "(双卵巢)高级别浆液性囊腺癌,累及双侧输卵管"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "95fc18796cd9654efc412c7ba8c819f4__index__20171210",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "(双卵巢)高级别浆液性囊腺癌,累及双侧输卵管"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "95fc18796cd9654efc412c7ba8c819f4__index__20171210",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "萎缩的子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "95fc18796cd9654efc412c7ba8c819f4__index__20171210",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "萎缩的子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "95fc18796cd9654efc412c7ba8c819f4__index__20171210",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "韧带断段"
+      ]
+    ],
+    "miaoshu": "(韧带断段)部分区域间肿瘤累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "95fc18796cd9654efc412c7ba8c819f4__index__20171210",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "韧带断段"
+      ]
+    ],
+    "miaoshu": "(韧带断段)部分区域间肿瘤累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0ec7d45966e1e034356379c1d05edee4__index__20170704",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "子宫"
+      ],
+      [
+        [
+          14,
+          16
+        ],
+        "壁间"
+      ],
+      [
+        [
+          23,
+          25
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(子宫)1.老年性宫内膜2.壁间平滑肌瘤。3.宫颈粘膜慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0ec7d45966e1e034356379c1d05edee4__index__20170704",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "子宫"
+      ],
+      [
+        [
+          14,
+          16
+        ],
+        "壁间"
+      ],
+      [
+        [
+          23,
+          25
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(子宫)1.老年性宫内膜2.壁间平滑肌瘤。3.宫颈粘膜慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0ec7d45966e1e034356379c1d05edee4__index__20170704",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右附件"
+      ]
+    ],
+    "miaoshu": "(右附件)恶性肿瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0ec7d45966e1e034356379c1d05edee4__index__20170704",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右附件"
+      ]
+    ],
+    "miaoshu": "(右附件)恶性肿瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0ec7d45966e1e034356379c1d05edee4__index__20170704",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右附件"
+      ]
+    ],
+    "miaoshu": "(右附件)恶性肿瘤,符合:高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0ec7d45966e1e034356379c1d05edee4__index__20170704",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右附件"
+      ]
+    ],
+    "miaoshu": "(右附件)恶性肿瘤,符合:高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b44c006690789993d08c808868a0181c__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "直肠"
+      ]
+    ],
+    "miaoshu": "(直肠)乳头状肿瘤,考虑:1.类癌;2.转移性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b44c006690789993d08c808868a0181c__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "直肠"
+      ]
+    ],
+    "miaoshu": "(直肠)乳头状肿瘤,考虑:1.类癌;2.转移性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b44c006690789993d08c808868a0181c__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "直肠"
+      ]
+    ],
+    "miaoshu": "(直肠)乳头状肿瘤,考虑:1.类癌;2.转移性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b44c006690789993d08c808868a0181c__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(右腹股沟)腺癌侵润/转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b44c006690789993d08c808868a0181c__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(右腹股沟)腺癌侵润/转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "b44c006690789993d08c808868a0181c__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(右腹股沟)腺癌侵润/转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "考虑为腺癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "79865db1e47c7bd90aa065ad8bfb777a__index__20171207",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "大网膜腹膜"
+      ]
+    ],
+    "miaoshu": "大网膜腹膜低分化癌侵润,倾向腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "79865db1e47c7bd90aa065ad8bfb777a__index__20171207",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(子宫)宫内膜"
+      ]
+    ],
+    "miaoshu": "(子宫)宫内膜萎缩性改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "79865db1e47c7bd90aa065ad8bfb777a__index__20171207",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)癌侵润,倾向腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "79865db1e47c7bd90aa065ad8bfb777a__index__20171207",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "右卵巢癌侵润,倾向腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "79865db1e47c7bd90aa065ad8bfb777a__index__20171207",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(右卵管)肌层"
+      ]
+    ],
+    "miaoshu": "(右卵管)肌层内见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c3852bddb8606da9f8b3db02d11a6ba4__index__20170302",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "(双卵巢)符合:癌,分化差,考虑:①浆液性乳头状癌② 神经内分泌癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c3852bddb8606da9f8b3db02d11a6ba4__index__20170302",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵巢"
+      ]
+    ],
+    "miaoshu": "(双卵巢)符合:癌,分化差,考虑:①浆液性乳头状癌② 神经内分泌癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c3852bddb8606da9f8b3db02d11a6ba4__index__20170302",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          12
+        ],
+        "双卵管、子宫、阑尾、网膜"
+      ]
+    ],
+    "miaoshu": "双卵管、子宫、阑尾、网膜均未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c3852bddb8606da9f8b3db02d11a6ba4__index__20170302",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          12
+        ],
+        "双卵管、子宫、阑尾、网膜"
+      ]
+    ],
+    "miaoshu": "双卵管、子宫、阑尾、网膜均未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)腺癌,局部分化差,倾向:高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)腺癌,局部分化差,倾向:高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "10ca4d1b1b946f0eb6f94b35147f84a6__index__20171214",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          19
+        ],
+        "盆腔肿物、大网膜结节、另送大网膜肿物"
+      ]
+    ],
+    "miaoshu": "(盆腔肿物、大网膜结节、另送大网膜肿物)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "10ca4d1b1b946f0eb6f94b35147f84a6__index__20171214",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "盆腔肿物"
+      ]
+    ],
+    "miaoshu": "(盆腔肿物腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "10ca4d1b1b946f0eb6f94b35147f84a6__index__20171214",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)可见少许退变明显的异型细胞团,符合化疗后反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "10ca4d1b1b946f0eb6f94b35147f84a6__index__20171214",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(左主韧带)未受累"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "10ca4d1b1b946f0eb6f94b35147f84a6__index__20171214",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(右主韧带)未受累"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "10ca4d1b1b946f0eb6f94b35147f84a6__index__20171214",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "盆腔肿物"
+      ]
+    ],
+    "miaoshu": "盆腔肿物未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "恶性肿瘤细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "恶性肿瘤细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)恶性肿瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)恶性肿瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0f1cb859334ed64e839a8b11a0fa25d7__index__20171127",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "大量中性粒细胞及成团或散在异形细胞,考虑为恶性肿瘤细胞,腺癌可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c0782e5470bfd8d9d8e315469b3c5d7b__index__20171225",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "左卵巢、右卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢、右卵巢)结合形态及免疫组化符合高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c0782e5470bfd8d9d8e315469b3c5d7b__index__20171225",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)1.腺肌症。2.增殖期宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9dfd5ddc19ff120e3a1d69a652987e62__index__20170725",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水沉渣)结合形态及免疫组化提示腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          9
+        ],
+        "(左卵巢)卵巢边缘"
+      ]
+    ],
+    "miaoshu": "(左卵巢)卵巢边缘见少量退变明显的异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)见少量退变明显的癌细胞巢"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)1.平滑肌瘤。2.更年期子宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          11
+        ],
+        "左卵管、右主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(左卵管、右主韧带切缘)未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          10
+        ],
+        "(右卵管)卵管外膜处"
+      ]
+    ],
+    "miaoshu": "(右卵管)卵管外膜处见退变明显的癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "左主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(左主韧带切缘)组织边缘见退变明显的癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(另送乙状结肠系膜肿物)腺癌浸润/转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          6
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(另送大网膜)见退变明显的癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          9
+        ],
+        "阑尾)外膜处"
+      ]
+    ],
+    "miaoshu": "(另送阑尾)外膜处见退变明显的癌细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "cba407c2cdf9683cb98e46a6d35c8c31__index__20171016",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "盆腔肿物"
+      ]
+    ],
+    "miaoshu": "(盆腔肿物)退变的腺癌组织浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "cba407c2cdf9683cb98e46a6d35c8c31__index__20171016",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右主韧带"
+      ]
+    ],
+    "miaoshu": "(右主韧带)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "cba407c2cdf9683cb98e46a6d35c8c31__index__20171016",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "子宫宫体"
+      ]
+    ],
+    "miaoshu": "(子宫宫体)平滑肌瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ee883e46abe47c53e689481a17fade96__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "腹腔结肠系膜肿块"
+      ]
+    ],
+    "miaoshu": "(腹腔结肠系膜肿块)送检组织呈管壁样结构,间质见密集排列的细胞,上皮样,轻度异型"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ee883e46abe47c53e689481a17fade96__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "腹腔结肠系膜肿块"
+      ]
+    ],
+    "miaoshu": "(腹腔结肠系膜肿块)送检组织呈管壁样结构,间质见密集排列的细胞,上皮样,轻度异型"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ee883e46abe47c53e689481a17fade96__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆块"
+      ]
+    ],
+    "miaoshu": "(盆块)符合:浆液性癌浸润[复发],癌细胞变性"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "ee883e46abe47c53e689481a17fade96__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆块"
+      ]
+    ],
+    "miaoshu": "(盆块)符合:浆液性癌浸润[复发],癌细胞变性"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f47bf64136d8d17d71e5750e04339533__index__20170731",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "(盆腔)考虑癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f47bf64136d8d17d71e5750e04339533__index__20170731",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "(盆腔)考虑癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f47bf64136d8d17d71e5750e04339533__index__20170731",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "(盆腔)腺癌,免疫组化提示:卵巢来源可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f47bf64136d8d17d71e5750e04339533__index__20170731",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "(盆腔)腺癌,免疫组化提示:卵巢来源可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0998ca65cd032f34337e3660bd578055__index__7",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "盆腔结节、大网膜"
+      ]
+    ],
+    "miaoshu": "(盆腔结节、大网膜)见癌侵润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "盆腔腺癌,免疫组化提示卵巢来源可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "盆腔"
+      ]
+    ],
+    "miaoshu": "盆腔腺癌,免疫组化提示卵巢来源可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)腺癌,符合浆液性癌,细胞退变明显"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)腺癌,符合浆液性癌,细胞退变明显"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          14
+        ],
+        "阴道壁切缘、左侧主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(阴道壁切缘、左侧主韧带切缘)干净"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          14
+        ],
+        "阴道壁切缘、左侧主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(阴道壁切缘、左侧主韧带切缘)干净"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "右侧主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(右侧主韧带切缘)见少许破碎异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          8
+        ],
+        "右侧主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(右侧主韧带切缘)见少许破碎异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "af0fc5e99d65c24d39be2af3e374c360__index__9",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "4",
+    "weizhi": [],
+    "miaoshu": "(右侧)低级别浆液性乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "af0fc5e99d65c24d39be2af3e374c360__index__9",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "4",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "(右)卵巢"
+      ]
+    ],
+    "miaoshu": "(右)卵巢低级别浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "af0fc5e99d65c24d39be2af3e374c360__index__9",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "4",
+    "weizhi": [
+      [
+        [
+          0,
+          115
+        ],
+        "右卵巢血管、左髂总淋巴结2枚、左2淋巴结1枚、左3淋巴结2枚、左4淋巴结3枚、左5淋巴结4枚、左腹主淋巴结1枚、右0淋巴结1枚、右1淋巴结3枚、右2淋巴结1枚、右3淋巴结1枚、右4淋巴结1枚、右5淋巴结6枚、骶前淋巴结1枚及大网膜"
+      ]
+    ],
+    "miaoshu": "右卵巢血管、左髂总淋巴结2枚、左2淋巴结1枚、左3淋巴结2枚、左4淋巴结3枚、左5淋巴结4枚、左腹主淋巴结1枚、右0淋巴结1枚、右1淋巴结3枚、右2淋巴结1枚、右3淋巴结1枚、右4淋巴结1枚、右5淋巴结6枚、骶前淋巴结1枚及大网膜均未见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "af0fc5e99d65c24d39be2af3e374c360__index__9",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "4",
+    "weizhi": [
+      [
+        [
+          0,
+          5
+        ],
+        "(左)卵巢"
+      ]
+    ],
+    "miaoshu": "(左)卵巢白体形成"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "af0fc5e99d65c24d39be2af3e374c360__index__9",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "4",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左输卵管"
+      ]
+    ],
+    "miaoshu": "左输卵管未见明显异常"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "09c28b3ef5183b5ec6b02ca54665df2d__index__20170328",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)浆液性交界性肿瘤,部分癌变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "09c28b3ef5183b5ec6b02ca54665df2d__index__20170328",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵管"
+      ]
+    ],
+    "miaoshu": "(双侧卵管)未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "09c28b3ef5183b5ec6b02ca54665df2d__index__20170328",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          12
+        ],
+        "右侧卵巢动静脉残端"
+      ]
+    ],
+    "miaoshu": "(另送右侧卵巢动静脉残端)未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "09c28b3ef5183b5ec6b02ca54665df2d__index__20170328",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          12
+        ],
+        "肠壁结节、盆腔结节"
+      ]
+    ],
+    "miaoshu": "(另送肠壁结节、盆腔结节)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "32ec38ef516a4ba6be3969979d49714c__index__20170317",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "纤维素样渗出物内可见大量印戒细胞,癌待排"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c4bc041b0f2f7778f191bd0735ed4f06__index__5",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)低分化癌,细胞退变明显,符合化疗后改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c4bc041b0f2f7778f191bd0735ed4f06__index__5",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          14
+        ],
+        "右输卵管、左卵巢、左输卵管"
+      ]
+    ],
+    "miaoshu": "(右输卵管、左卵巢、左输卵管)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c4bc041b0f2f7778f191bd0735ed4f06__index__5",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)平滑肌瘤,直径1.5cm"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c4bc041b0f2f7778f191bd0735ed4f06__index__5",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "肠系膜结节、阑尾"
+      ]
+    ],
+    "miaoshu": "(肠系膜结节、阑尾)未见癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c4bc041b0f2f7778f191bd0735ed4f06__index__5",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "小肠结节"
+      ],
+      [
+        [
+          17,
+          20
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(小肠结节)组织内 见泡沫样组织,大网膜见沙砾体及泡沫样组织,细胞符合化疗反应"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3a327958012bf3147594861ce9083835__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "2016.10.24"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "3a327958012bf3147594861ce9083835__index__2",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "右卵巢交界性粘液性囊腺瘤,伴灶性改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "“腹水”涂片找到肿瘤细胞,提示腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水沉渣包埋)红染无结构物中见极少许异型细胞。免疫组化提示腺癌可能性大"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          10
+        ],
+        "双侧卵管、双侧宫旁"
+      ]
+    ],
+    "miaoshu": "(双侧卵管、双侧宫旁)未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          13
+        ],
+        "阴道壁切缘+阴道后下切缘"
+      ]
+    ],
+    "miaoshu": "(阴道壁切缘+阴道后下切缘冰冻)干净"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8dd24afc33a05721a9e90aae80105459__index__20170203",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)网膜组织中可见低分化腺癌浸润,符合低分化子宫内膜样癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8dd24afc33a05721a9e90aae80105459__index__20170203",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          9
+        ],
+        "左右宫旁及阴道残端"
+      ]
+    ],
+    "miaoshu": "左右宫旁及阴道残端未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8dd24afc33a05721a9e90aae80105459__index__20170203",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(腹水)找到瘤细胞,余未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)符合:高级别浆液性癌,分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)符合:高级别浆液性癌,分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧卵巢)符合:高级别浆液性癌,分化差"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "双侧输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧输卵管)未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "双侧输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧输卵管)未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "双侧输卵管"
+      ]
+    ],
+    "miaoshu": "(双侧输卵管)未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)老年性宫内膜并伴腺肌症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)老年性宫内膜并伴腺肌症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)老年性宫内膜并伴腺肌症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)慢性炎伴局灶腺体鳞化"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)慢性炎伴局灶腺体鳞化"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(宫颈)慢性炎伴局灶腺体鳞化"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "直肠旁肿物"
+      ]
+    ],
+    "miaoshu": "(另送直肠旁肿物)见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "直肠旁肿物"
+      ]
+    ],
+    "miaoshu": "(另送直肠旁肿物)见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "直肠旁肿物"
+      ]
+    ],
+    "miaoshu": "(另送直肠旁肿物)见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(另送结肠沟转移结节)见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(另送结肠沟转移结节)见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(另送结肠沟转移结节)见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "阑尾未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "阑尾未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "9d8bc88fb81a7e0ac8d0ad84a76f7d31__index__20170718",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "阑尾未见癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f55da0d0a43f21be1b6ebf845f85e79__index__20180112",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f55da0d0a43f21be1b6ebf845f85e79__index__20180112",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双卵管"
+      ]
+    ],
+    "miaoshu": "(双卵管)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f55da0d0a43f21be1b6ebf845f85e79__index__20180112",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "双主韧带切缘"
+      ]
+    ],
+    "miaoshu": "(双主韧带切缘)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f55da0d0a43f21be1b6ebf845f85e79__index__20180112",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          24
+        ],
+        "大网膜,卵巢表面肿物,直肠阴道间肿物,胃壁结节"
+      ]
+    ],
+    "miaoshu": "(大网膜,卵巢表面肿物,直肠阴道间肿物,胃壁结节)癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f55da0d0a43f21be1b6ebf845f85e79__index__20180112",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "左卵巢、阑尾"
+      ]
+    ],
+    "miaoshu": "(左卵巢、阑尾)未见明确癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72565d0a90d540ba53fcec9e286fa7d4__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)癌,待分类。侵及子宫浆膜层"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72565d0a90d540ba53fcec9e286fa7d4__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "(子宫)1.壁间"
+      ],
+      [
+        [
+          24,
+          26
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(子宫)1.壁间平滑肌瘤。2.老年性宫内膜。3.宫颈粘膜慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "72565d0a90d540ba53fcec9e286fa7d4__index__20170925",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          13
+        ],
+        "左附件、右输卵管及淋巴结"
+      ]
+    ],
+    "miaoshu": "(左附件、右输卵管及淋巴结)未见明确癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "双附件"
+      ]
+    ],
+    "miaoshu": "(双附件)低分化癌,符合浆液性腺癌,高级别"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "子宫内膜"
+      ]
+    ],
+    "miaoshu": "子宫内膜呈萎缩性改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)可见癌侵及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d9cfcdafdeb24e1701143101a42d9e19__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "腺癌细胞团"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "右侧附件"
+      ]
+    ],
+    "miaoshu": "右侧附件浆液性乳头状癌,高级别"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "左侧附件"
+      ]
+    ],
+    "miaoshu": "左侧附件浆液性乳头状癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "大网膜可见癌结节"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "阑尾化脓性炎症"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "肝表面肿物"
+      ]
+    ],
+    "miaoshu": "(肝表面肿物)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          9
+        ],
+        "肾上腺区肿物"
+      ]
+    ],
+    "miaoshu": "(另送肾上腺区肿物)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "大网膜组织"
+      ]
+    ],
+    "miaoshu": "(另送大网膜组织)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          8
+        ],
+        "肝门区肿物"
+      ]
+    ],
+    "miaoshu": "(另送肝门区肿物)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "1e5ca78f3c28fd7568eb732a7bb32d82__index__20170720",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          7
+        ],
+        "膈肌肿物"
+      ]
+    ],
+    "miaoshu": "(另送膈肌肿物)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f7240c404857fca3604393a61800904__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)见少量腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f7240c404857fca3604393a61800904__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)见少量腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f7240c404857fca3604393a61800904__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)子宫内膜增生,灶性腺体有不典型增生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f7240c404857fca3604393a61800904__index__8",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "(宫体)子宫内膜增生,灶性腺体有不典型增生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)腺癌(中-低分化)"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "7a610ba24f9abf6339808bf6fd02e2d5__index__20170730",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)可见极少许退变的异型细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "7a610ba24f9abf6339808bf6fd02e2d5__index__20170730",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          7
+        ],
+        "(宫体)宫内膜"
+      ]
+    ],
+    "miaoshu": "(宫体)宫内膜呈萎缩状改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "cd4e02a03345406dc8229a9048abfd32__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "左、右卵巢"
+      ]
+    ],
+    "miaoshu": "(左、右卵巢)腺癌,考虑浆液性乳头状腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "cd4e02a03345406dc8229a9048abfd32__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "左、右卵管"
+      ]
+    ],
+    "miaoshu": "(左、右卵管)未见明确癌累及"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "cd4e02a03345406dc8229a9048abfd32__index__3",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "大网膜结节"
+      ]
+    ],
+    "miaoshu": "(大网膜结节)符合腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f6cbce9d7b2f440a24b0c056edb0bff__index__20170717",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f6cbce9d7b2f440a24b0c056edb0bff__index__20170717",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "子宫"
+      ],
+      [
+        [
+          11,
+          13
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "(子宫)老年性宫内膜,宫颈粘膜慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f6cbce9d7b2f440a24b0c056edb0bff__index__20170717",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          10
+        ],
+        "余部位及送检淋巴结"
+      ]
+    ],
+    "miaoshu": "(余部位及送检淋巴结)均未发现癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6f6cbce9d7b2f440a24b0c056edb0bff__index__20170717",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "个别核异质细胞"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          9,
+          13
+        ],
+        "双侧卵巢"
+      ]
+    ],
+    "miaoshu": "(右附件、左附件)双侧卵巢低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          10
+        ],
+        "双侧卵管浆膜层及肌层"
+      ]
+    ],
+    "miaoshu": "双侧卵管浆膜层及肌层可见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          4,
+          17
+        ],
+        "阑尾粘膜下层、肌层及浆膜层"
+      ]
+    ],
+    "miaoshu": "(阑尾)阑尾粘膜下层、肌层及浆膜层可见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          56
+        ],
+        "腹膜结节、右侧结肠旁沟种植灶、盆底腹膜结节、直肠表面种植灶、肠系膜种植灶、膀胱腹膜种植灶、右侧腹膜结节、大网膜"
+      ]
+    ],
+    "miaoshu": "(腹膜结节、右侧结肠旁沟种植灶、盆底腹膜结节、直肠表面种植灶、肠系膜种植灶、膀胱腹膜种植灶、右侧腹膜结节、大网膜)纤维脂肪组织中可见癌组织"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "结合免疫组化结果支持高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "e90703eb544064b5173a9fbae885d88b__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右附件"
+      ]
+    ],
+    "miaoshu": "(右附件)子宫内膜异位相关性子宫内膜样癌,大部分呈原位癌样改变,局灶伴早期浸润,伴有明显的鳞化和粘液样化生"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "e90703eb544064b5173a9fbae885d88b__index__20170615",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "右侧盆腔包块"
+      ]
+    ],
+    "miaoshu": "(右侧盆腔包块穿刺)结合免疫组化及组织学形态,考虑鳞状细胞癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "130ca23cbe4157eb929824219afbe77d__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "纤维组织中见异形细胞团,部分呈腺样排列,结合免疫组化符合腺癌,倾向高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "130ca23cbe4157eb929824219afbe77d__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          9
+        ],
+        "左卵巢、左输卵管"
+      ]
+    ],
+    "miaoshu": "(左卵巢、左输卵管)腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "130ca23cbe4157eb929824219afbe77d__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          7
+        ],
+        "盆腔结节"
+      ]
+    ],
+    "miaoshu": "(另送盆腔结节)腺癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "130ca23cbe4157eb929824219afbe77d__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          7
+        ],
+        "阑尾、大网膜"
+      ]
+    ],
+    "miaoshu": "(阑尾、大网膜)未见明确癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)粘液性肿瘤。考虑:粘液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d569a72b4d4529dd028ff6f306540490__index__20170216",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "右卵巢"
+      ]
+    ],
+    "miaoshu": "(右卵巢)低分化癌,细胞有退变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d569a72b4d4529dd028ff6f306540490__index__20170216",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "(左卵巢)未见明确癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d569a72b4d4529dd028ff6f306540490__index__20170216",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "(阑尾)未见明确癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d569a72b4d4529dd028ff6f306540490__index__20170216",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          3,
+          7
+        ],
+        "盆腔肿物"
+      ]
+    ],
+    "miaoshu": "(另送盆腔肿物)组织变性坏死,可见癌浸润"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d569a72b4d4529dd028ff6f306540490__index__20170216",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          4
+        ],
+        "大网膜"
+      ]
+    ],
+    "miaoshu": "(大网膜)未见明确癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "543b7ed71fafae11eea7d81ea3e6ba43__index__20170804",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "一侧附件"
+      ]
+    ],
+    "miaoshu": "(一侧附件)腺癌,符合:高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "543b7ed71fafae11eea7d81ea3e6ba43__index__20170804",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "(?)形态符合:浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "543b7ed71fafae11eea7d81ea3e6ba43__index__20170804",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "子宫"
+      ],
+      [
+        [
+          26,
+          30
+        ],
+        "宫颈粘膜"
+      ]
+    ],
+    "miaoshu": "(子宫)1.增殖期子宫内膜。2.多发性平滑肌瘤。3.宫颈粘膜慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5a93f98edcd3b6e7c6534f39ceefe5fb__index__20171103",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "左卵巢中分化子宫内膜腺癌未浸润宫旁"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "5a93f98edcd3b6e7c6534f39ceefe5fb__index__20171103",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)子宫内膜样腺癌,中-低分化"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f37a3126036262aa190d330a9a8aff12__index__18",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          13
+        ],
+        "盆腔肿物、另送大网膜结节"
+      ]
+    ],
+    "miaoshu": "(盆腔肿物、另送大网膜结节)低分化腺癌,免疫标记提示浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "0a37e2967b8c8a09e5e932731e87bf52__index__20171203",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "4",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "盆腔、网膜"
+      ]
+    ],
+    "miaoshu": "(盆腔、网膜)低分化腺癌,结合临床病史及免疫组化,符合卵巢低分化子宫内膜样腺癌复发"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "c22ec624d8852324aa34f8cd8cd46e36__index__20171018",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "结合形态及免疫组化符合:低分化腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "469b4f95e3cb13f36bd05b78db15ff80__index__20171213",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          6
+        ],
+        "(双侧)卵巢"
+      ]
+    ],
+    "miaoshu": "(双侧)卵巢浆液性乳头状囊腺癌Ⅱ-Ⅲ级"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "469b4f95e3cb13f36bd05b78db15ff80__index__20171213",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          6
+        ],
+        "左、右卵巢"
+      ]
+    ],
+    "miaoshu": "(左、右卵巢)分化差的浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6316c7e953392c4f3c80e713ce250430__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          4
+        ],
+        "一侧附件"
+      ]
+    ],
+    "miaoshu": "一侧附件粘液性乳头状囊腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "6316c7e953392c4f3c80e713ce250430__index__20170515",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "宫旁"
+      ]
+    ],
+    "miaoshu": "宫旁慢性炎症伴粘液潴留,未见癌浸润或转移"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "子宫"
+      ]
+    ],
+    "miaoshu": "(子宫)慢性宫颈炎伴腺体潴留"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "萎缩性宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "肌层未见明显病理改变"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d2f61ba4689cf4709648af056dd1835__index__20170213",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          3
+        ],
+        "左卵巢"
+      ]
+    ],
+    "miaoshu": "左卵巢高级别浆液性癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d2f61ba4689cf4709648af056dd1835__index__20170213",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "宫体"
+      ]
+    ],
+    "miaoshu": "宫体:老年性宫内膜"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d2f61ba4689cf4709648af056dd1835__index__20170213",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "宫颈"
+      ]
+    ],
+    "miaoshu": "宫颈粘膜慢性炎"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "8d2f61ba4689cf4709648af056dd1835__index__20170213",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          8
+        ],
+        "右卵巢及双输卵管"
+      ]
+    ],
+    "miaoshu": "右卵巢及双输卵管未见特殊"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f8478df73cc0ffae026e2dc57a5541e6__index__20170828",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)1719867:高级别粘液性癌伴坏死"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "f8478df73cc0ffae026e2dc57a5541e6__index__20170828",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          3
+        ],
+        "卵巢"
+      ]
+    ],
+    "miaoshu": "(卵巢)1719867:高级别粘液性癌伴坏死"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "16a411bded8e7f669f61a5455ac3cb21__index__20171113",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "右侧卵巢"
+      ]
+    ],
+    "miaoshu": "(右侧卵巢)腺癌,考虑高级别浆液性腺癌,呈微乳头状生长"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "7675693fdb1f619b1d3927787f65b704__index__20170518",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [],
+    "miaoshu": "倾向:转移性腺癌"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "a440eed979827a71805327c8aa768420__index__5",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "十二指肠"
+      ]
+    ],
+    "miaoshu": "(十二指肠)腺癌,免疫标记提示:卵巢来源可能"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d1d0c90d7ff08bd81721beee188a5436__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          32,
+          38
+        ],
+        "“左侧”卵巢"
+      ]
+    ],
+    "miaoshu": "结合该病人右侧卵巢肿瘤在河南科技大学一附院病理科所示结果,可符合“左侧”卵巢浆液性腺癌,中分化,侵及同侧子宫浆膜面"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d1d0c90d7ff08bd81721beee188a5436__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          0,
+          2
+        ],
+        "阑尾"
+      ]
+    ],
+    "miaoshu": "阑尾低级别粘液性肿瘤"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d1d0c90d7ff08bd81721beee188a5436__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "盆腔肿物"
+      ]
+    ],
+    "miaoshu": "(盆腔肿物)腺癌浸润,免疫组化提示卵巢来源"
+  },
+  {
+    "l1_label": "标本部位",
+    "urid": "d1d0c90d7ff08bd81721beee188a5436__index__20180108",
+    "domain": null,
+    "module": "入院记录|辅助检查",
+    "hosp_id": "5",
+    "weizhi": [
+      [
+        [
+          1,
+          5
+        ],
+        "腹壁结节"
+      ]
+    ],
+    "miaoshu": "(腹壁结节)未见癌"
+  }
+]
